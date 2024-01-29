@@ -32,9 +32,13 @@ ul{
     list-style: disc;
 }
 img{
-    display:flex ;
-    align-items: flex-end;
-    justify-content: end;
+     float: right;
+    border-radius: 7px;
+    /* border: 2px solid black; */
+    width:250px;
+    margin-right: 40px;
+    margin-top: 0px;
+    box-shadow: 0px 0px 50px black;
 }
 
 
